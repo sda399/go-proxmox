@@ -1,4 +1,4 @@
-module github.com/luthermonson/go-proxmox
+module github.com/sda399/go-proxmox
 
 go 1.20
 
@@ -8,6 +8,7 @@ require (
 	github.com/gorilla/websocket v1.4.2
 	github.com/h2non/gock v1.2.0
 	github.com/jinzhu/copier v0.3.4
+	github.com/luthermonson/go-proxmox v0.0.0-beta6
 	github.com/magefile/mage v1.14.0
 	github.com/stretchr/testify v1.7.0
 )
